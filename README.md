@@ -1,1 +1,1 @@
-#iint the setup file
+#init the setup file
